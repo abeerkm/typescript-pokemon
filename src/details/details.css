@@ -1,0 +1,114 @@
+.headerimage{
+position: relative;
+width: 387px;
+height: 140px;
+left: 488px;
+right: 488px;
+
+}
+.pokemonDetails{
+position: absolute;
+width: 1283px;
+height: 1194px;
+border-radius: 0px;
+
+}
+.pokemoncard {
+    position: relative;
+    width: 901px;
+    height: 371px;
+    
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.15));
+}
+ .rectangle{
+  position: absolute;
+height: 342px;
+width: 844px;
+left: 284px;
+right: 191;
+border-radius: 9px;
+background: #F7F7F9;
+}
+ .rectangle .line{
+position: absolute;
+width: 246px;
+height: 0px;
+left: 100px;
+top: 150px;
+
+border: 1px solid #D7D7D7;
+transform: rotate(-90deg);
+}
+ .rectangle #pokname {
+position: absolute;
+width: 151px;
+height: 33px;
+top: 200px;
+left: 61px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #373299;
+}
+  .rectangle img{
+position: absolute;
+height: 200px;
+width: 200px;
+
+border-radius: 0px;
+
+    
+ }
+ #id {
+position: absolute;
+width: 132.61px;
+height: 23px;
+
+border-radius: nullpx;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+
+color: #373299;
+
+ }
+ .types .type1{
+    position: absolute;
+width: 80px;
+height: 34px;
+top: 300px;
+background: #7AC74C;
+border-radius: 9px;
+
+ }
+ .types a{
+    position: absolute;
+width: 65px;
+height: 32px;
+text-align: center;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+
+color: #F7F7F9;
+
+ }
+.type2{
+    position: absolute;
+    width: 98px;
+    height: 34px;
+    top: 300px;
+    background: #A33EA1;
+    border-radius: 9px;
+    left: 80px;
+
+
+ }
